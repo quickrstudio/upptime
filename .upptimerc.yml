@@ -6,8 +6,12 @@ sites:
     url: https://astro.quickr.studio
   - name: Node 1
     url: $NODE1_URL
+    expectedStatusCodes:
+      - 401
   - name: Node 2
     url: $NODE2_URL
+    expectedStatusCode:
+      - 401
 
 status-website:
   cname: status.quickr.studio
