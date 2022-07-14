@@ -17,8 +17,7 @@ status-website:
   cname: status.quickr.studio
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Quickr Studio
-  introTitle: "Together working for a technological world."
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
