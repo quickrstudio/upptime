@@ -2,7 +2,7 @@ owner: quickrstudio
 repo: upptime
 
 sites:
-  - name: Astro
+  - name: Astro Dashboard
     url: https://astro.quickr.studio
   - name: Node 1
     url: $NODE1_URL
