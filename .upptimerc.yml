@@ -6,10 +6,12 @@ sites:
     url: https://astro.quickr.studio
   - name: Node 1
     url: $NODE1_URL
+    maxResponseTime: 2000
     expectedStatusCodes:
       - 401
   - name: Node 2
     url: $NODE2_URL
+    maxResponseTime: 2000
     expectedStatusCodes:
       - 401
 
