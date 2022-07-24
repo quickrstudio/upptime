@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 454,
-    "timeWeek": 652,
-    "timeMonth": 533,
-    "timeYear": 533,
+    "time": 560,
+    "timeDay": 969,
+    "timeWeek": 703,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "node-1",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 528,
-    "timeDay": 526,
-    "timeWeek": 512,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 531,
+    "timeDay": 582,
+    "timeWeek": 529,
+    "timeMonth": 531,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2022-07-14": 6
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 391,
-    "timeWeek": 483,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "time": 544,
+    "timeDay": 742,
+    "timeWeek": 489,
+    "timeMonth": 544,
+    "timeYear": 544,
     "dailyMinutesDown": {}
   }
 ]
